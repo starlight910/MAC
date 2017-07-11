@@ -17,3 +17,6 @@ tignore file
 
 # Ignore all .wav files
 *.wav
+
+# Ignore all .wave files
+*.wave
