@@ -1,0 +1,19 @@
+tignore file
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore all .out files
+*.out
+
+# Ignore all .swp files
+*.swp
+
+# Ignore all .wav files
+*.wav
